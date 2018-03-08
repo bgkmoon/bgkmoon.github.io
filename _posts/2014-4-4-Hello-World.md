@@ -1,1 +1,6 @@
-what th
+---
+layout: post
+title: what
+---
+
+ggogogogo
